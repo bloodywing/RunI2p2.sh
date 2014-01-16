@@ -30,5 +30,5 @@ if [ ! -f ${I2PRUNTEST}  ]
 sleep 5
 
 fi
-${I2PTEST} irc://127.0.0.1:6668/#aaa
+${KVIRCTEST} irc://127.0.0.1:6668/#aaa
 
